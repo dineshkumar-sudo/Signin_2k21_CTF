@@ -1,0 +1,20 @@
+
+button#next {
+    display: inline-block;
+    color: white;
+    border: none;
+    background-color: dodgerblue;
+    padding: 4px 14px;
+    letter-spacing: 1px;
+    border-radius: 2px;
+}
+
+button#prev {
+    display: inline-block;
+    color: white;
+    border: none;
+    background-color: dodgerblue;
+    padding: 4px 14px;
+    letter-spacing: 1px;
+    border-radius: 2px;
+}
